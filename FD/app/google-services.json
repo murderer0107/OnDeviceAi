@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635111868316",
+    "project_id": "ondevicea",
+    "storage_bucket": "ondevicea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635111868316:android:5d6708beb88c6bfed4ea59",
+        "android_client_info": {
+          "package_name": "com.example.fd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWrYNKxpMEideVgIPgTwpwV60UPGlgkPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

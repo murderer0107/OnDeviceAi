@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427570914732",
+    "project_id": "ondevicechpter4",
+    "storage_bucket": "ondevicechpter4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427570914732:android:68bccd0ec6d9ad36834609",
+        "android_client_info": {
+          "package_name": "com.example.fd3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMf971EFYAXmgktiIVnKJxCN1ozhvrKiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
